@@ -1,3 +1,4 @@
+// code fait sur arduino IDE
 #include <Gamebuino-Meta.h>
 //score
 int score1 = 0;
